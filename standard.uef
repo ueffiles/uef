@@ -1,5 +1,5 @@
 {
-  "_comment": "these files are lzipped."
+  "_comment": "these files are lzipped, but using the engines with non-lzipped files still works"
   "headers": {
     "name": "standard.uef",
     "language": "node",
