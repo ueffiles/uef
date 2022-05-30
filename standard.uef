@@ -1,4 +1,5 @@
 {
+  "_comment": "these files are lzipped."
   "headers": {
     "name": "standard.uef",
     "language": "node",
