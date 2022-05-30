@@ -5,10 +5,9 @@
     "main": "home.js"
   },
   
-  "files": {
-      "home.js": {
-           "encoding": "base64",
-           "value": "Y29uc29sZS5sb2coImhlbGxvIHdvcmxkIik="
-      }
-  }
+  "files": [{
+      "name": "home.js",
+       "encoding": "base64",
+        value": "Y29uc29sZS5sb2coImhlbGxvIHdvcmxkIik="
+   }]
 }
