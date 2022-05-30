@@ -3,7 +3,8 @@
   "headers": {
     "name": "standard.uef",
     "language": "node",
-    "main": "home.js"
+    "command": "node home.js"
+    "_comment2": "node isn't prepackaged in uef files. you have to include it yourself, so eg nodevwhatever.exe home.js"
   },
   
   "files": [{
